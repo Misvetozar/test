@@ -1,7 +1,1 @@
-const test = "test";
-aefaeaefaef
-aef
-aef
-aef
-aef
-aeflert("Hello");
+aflert("Hello");
