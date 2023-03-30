@@ -1,2 +1,1 @@
-const test = "test";
-alert("Hello");
+aflert("Hello");
